@@ -1,5 +1,18 @@
 # 💫 About Me:
-🚀 I'm currently working on:<br>Building blockchain-based dApps, TON mini apps, and an expense tracking app.<br><br>🤝 I'm looking to collaborate on:<br>Projects involving TON blockchain, Jetton, and NFT creation.<br><br>🆘 I'm looking for help with:<br>Advanced TON wallet integration and smart contract development.<br><br>📘 I'm currently learning:<br>Full Stack MERN development and deeper blockchain concepts.<br><br>💬 Ask me about:<br>Blockchain solutions, or full stack websites.
+👋 Hi, I'm **Amardeep Lakshkar**, a passionate **Full Stack MERN Developer** specializing in **React**, **Next.js**, and **MongoDB**. I focus on building high-performance, scalable web applications with a strong emphasis on the **MERN stack**.
+
+🚀 **Currently working on:**
+
+- Developing full stack web applications using **React** and **Next.js**.
+- Building dynamic applications with **MongoDB** and **Prisma** for database management.
+- Creating modern, responsive user interfaces with **TailwindCSS** and optimizing performance with **Vite**.
+
+💡 **My skills:**
+
+- **MERN Stack** (MongoDB, Express, React, Node.js).
+- **Next.js** for building scalable, SEO-friendly web apps.
+- **Prisma** for efficient database modeling and management.
+- **React** for building fast and interactive UIs.
 
 
 ## 🌐 Socials:
