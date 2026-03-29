@@ -1,37 +1,164 @@
-# 💫 About Me:
-👋 Hi, I'm **Amardeep Lakshkar**, a passionate **Full Stack MERN Developer** specializing in **React**, **Next.js**, and **MongoDB**. I focus on building high-performance, scalable web applications with a strong emphasis on the **MERN stack**.
+<div align="center">
 
-🚀 **Currently working on:**
+```
+ █████╗ ███╗   ███╗ █████╗ ██████╗ ██████╗ ███████╗███████╗██████╗
+██╔══██╗████╗ ████║██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔══██╗
+███████║██╔████╔██║███████║██████╔╝██║  ██║█████╗  █████╗  ██████╔╝
+██╔══██║██║╚██╔╝██║██╔══██║██╔══██╗██║  ██║██╔══╝  ██╔══╝  ██╔═══╝
+██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║██████╔╝███████╗███████╗██║
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝
+```
 
-- Developing full stack web applications using **React** and **Next.js**.
-- Building dynamic applications with **MongoDB** and **Prisma** for database management.
-- Creating modern, responsive user interfaces with **TailwindCSS** and optimizing performance with **Vite**.
+### Full Stack MERN Developer · Open Source Enthusiast · Builder
 
-💡 **My skills:**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+production-ready+apps;Open+source+%E2%80%94+always+shipping)](https://github.com/amardeeplakshkar)
 
-- **MERN Stack** (MongoDB, Express, React, Node.js).
-- **Next.js** for building scalable, SEO-friendly web apps.
-- **Prisma** for efficient database modeling and management.
-- **React** for building fast and interactive UIs.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Amardeep_Lakshkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amardeeplakshkar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NOTAMARDEEP) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Amardeeplakshkar) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amardeeplakshkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amardeeplakshkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amardeeplakshkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amardeeplakshkar&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amardeeplakshkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amardeeplakshkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I'm **Amardeep Lakshkar**, a full-stack MERN developer from **Indore, India** who loves building things that are fast, scalable, and useful. I focus on the complete stack — from architecting MongoDB schemas to polishing pixel-perfect UIs in React and Next.js.
+
+- 🔭 Currently building: `deepagent` — a TypeScript SDK for intelligent agents with 50+ pre-built integrations
+- 🧩 Co-creator of **ClumpUI** — a unified component library system
+- ⚡ Exploring: AI tooling, LLM APIs, and developer-focused open source
+- 📖 Curating: [awesome-free-llm-apis](https://github.com/amardeeplakshkar/awesome-free-llm-apis) — the best free LLM APIs, with real rate limits and metadata
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+### Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+
+### Cloud & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [deepagent](https://github.com/amardeeplakshkar/deepagent)
+TypeScript SDK for building intelligent agents with **50+ pre-built integrations**. Designed for speed and extensibility.
+
+`TypeScript` `AI` `SDK` `Agents`
+⭐ 8 | 🍴 1
+
+</td>
+<td width="50%">
+
+### 🧱 [ClumpUI](https://github.com/clumpui/clumpui)
+The unified component library — brings together the best of modern component systems into one accessible, consistent design system.
+
+`TypeScript` `React` `Component Library`
+⭐ 2 | 🍴 1
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💻 [Dash](https://github.com/amardeeplakshkar/dash)
+Web-based IDE with real-time code editing and AI assistance, built with **Next.js** and **WebContainer API**.
+
+`TypeScript` `Next.js` `WebContainer` `AI`
+⭐ 6 | 🍴 3
+
+</td>
+<td width="50%">
+
+### 🌸 [Bloom](https://github.com/amardeeplakshkar/bloom)
+AI-powered code generation platform. Transform ideas into production-ready applications with intelligent agent assistance.
+
+`TypeScript` `AI` `Code Gen`
+⭐ 2
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 [IRIS](https://github.com/amardeeplakshkar/IRIS)
+One assistant to rule them all — conversation, image generation, diagram rendering, weather, media transcription, in a single interface.
+
+`TypeScript` `Multi-modal` `AI`
+⭐ 2
+
+</td>
+<td width="50%">
+
+### 🆓 [awesome-free-llm-apis](https://github.com/amardeeplakshkar/awesome-free-llm-apis)
+Curated list of permanently free LLM APIs with real rate limits, OpenAI SDK compatibility info, and speed tiers.
+
+`Markdown` `LLM` `Open Source` `Curated`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=amardeeplakshkar&theme=dracula&hide_border=true&include_all_commits=false&count_private=false"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amardeeplakshkar&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=amardeeplakshkar&theme=dracula&hide_border=true)](https://github.com/amardeeplakshkar)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://trophygh.kolioaris.xyz/?username=amardeeplakshkar&theme=dracula&row=2&column=5)](https://github.com/amardeeplakshkar)
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Amardeeplakshkar)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NOTAMARDEEP)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Amardeep_Lakshkar)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Amardeeplakshkar)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Ship early. Iterate fast. Build in public."*
+
+</div>
